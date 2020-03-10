@@ -1,3 +1,6 @@
+## Fork Notes
+This fork exists as a repo for browserized apps using the AWS IoT Device SDK.
+
 ## New Version Available
 
 A new AWS IoT Device SDK is [now available](https://github.com/awslabs/aws-iot-device-sdk-js-v2). It is a complete rework, built to improve reliability, performance, and security. We invite your feedback!
